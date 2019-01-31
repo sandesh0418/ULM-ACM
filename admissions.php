@@ -153,7 +153,7 @@ include 'header.php';
               important word.</br>
               For example:
               "I want to replace an element with another element of array in java"</br>
-              <img src ="images/wrongSearch.png" width=400px height=350px>
+              <img src ="./images/wrongSearch.PNG" width=400px height=350px>
 </br>
               This example is too wordy and uses irrelevant words. When you search
               that in google, you will get a whole bunch of results. Instead of array,
