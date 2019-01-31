@@ -15,7 +15,7 @@
           <li><a href="membership.php">Membership</a></li>
           <li><a href="faq.php">FAQ</a></li>
         </ul>
-        <p> &copy; <i>Designed Sandesh Bhandari </i></p>
+        <p> &copy; <i>Designed by Sandesh Bhandari </i></p>
       </div>
     </div>
   </div>
