@@ -116,7 +116,7 @@ include 'header.php';
         </div>
         <div class="modal-body">
           <p>Here are office hours of all computer science's professors.</br></br>
-          <img src = "images/office.png" width ="500px"></p>
+          <img src = "images/office.PNG" width ="500px"></p>
         </div>
         <div class="modal-footer">
           <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
