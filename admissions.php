@@ -297,7 +297,7 @@ include 'header.php';
   <td>
     <button type="button" class="btn btn-default" data-toggle="modal" data-target="#myModal6">
     <img src ="images/dictionary.jpg" width="200px" height="200px">
-    <div class="box-caption">CS Dictionary</div>
+    <div class="box-caption">Computer Science Dictionary</div>
   </button>
   <div class="modal fade" id="myModal6" role="dialog">
       <div class="modal-dialog">
