@@ -212,7 +212,7 @@ include 'header.php';
 <button type="button" class="btn btn-default" data-toggle="modal" data-target="#myModal4">
     <img src ="images/computer.jpg" width="200px" height="200px">
 
-    <div class="box-caption">What courses when</div>
+    <div class="box-caption">What Courses When</div>
   </button>
   <div class="modal fade" id="myModal4" role="dialog">
       <div class="modal-dialog">
